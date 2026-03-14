@@ -33,4 +33,6 @@ Breast Cancer Wisconsin dataset (569 samples, 32 features).
 - Ovarian cancer dataset: Achieves ~84% accuracy after 15 epochs.
 - Breast cancer: ~99% with early stopping, validation accuracy 98.9%.
 
+Notebook: Multi_Layer_Perceptron.ipynb 
+Colab Link: https://colab.research.google.com/drive/1Kof7DdQ4na6Z1fSz9OT70GgwoVcJqj4u?usp=sharing
 Built as part of ML engineering practice focusing on neural networks and data science.
